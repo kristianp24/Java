@@ -1,2 +1,2 @@
 # Java
-Beginning in Java.
+Beginning in Java.OOP exercices.
