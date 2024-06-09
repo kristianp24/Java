@@ -1,0 +1,52 @@
+[
+   {
+      "nr_locuri_rez": 4,
+      "cod": 101,
+      "id_rezervare": "1"
+   },
+   {
+      "nr_locuri_rez": 4,
+      "cod": 102,
+      "id_rezervare": "2"
+   },
+   {
+      "nr_locuri_rez": 1,
+      "cod": 103,
+      "id_rezervare": "3"
+   },
+   {
+      "nr_locuri_rez": 2,
+      "cod": 101,
+      "id_rezervare": "4"
+   },
+   {
+      "nr_locuri_rez": 3,
+      "cod": 104,
+      "id_rezervare": "5"
+   },
+   {
+      "nr_locuri_rez": 5,
+      "cod": 101,
+      "id_rezervare": "6"
+   },
+   {
+      "nr_locuri_rez": 1,
+      "cod": 102,
+      "id_rezervare": "7"
+   },
+   {
+      "nr_locuri_rez": 2,
+      "cod": 105,
+      "id_rezervare": "8"
+   },
+   {
+      "nr_locuri_rez": 4,
+      "cod": 103,
+      "id_rezervare": "9"
+   },
+   {
+      "nr_locuri_rez": 6,
+      "cod": 104,
+      "id_rezervare": "10"
+   }
+]
