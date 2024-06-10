@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Apartamente>
+    <Apartament>
+        <Cod>1</Cod>
+        <Propietar>Popescu</Propietar>
+    </Apartament>
+    <Apartament>
+        <Cod>2</Cod>
+        <Propietar>Enescu</Propietar>
+    </Apartament>
+    <Apartament>
+        <Cod>3</Cod>
+        <Propietar>Testescu</Propietar>
+    </Apartament>
+    <Apartament>
+        <Cod>4</Cod>
+        <Propietar>Georgescu</Propietar>
+    </Apartament>
+    <Apartament>
+        <Cod>5</Cod>
+        <Propietar>Miron</Propietar>
+    </Apartament>
+</Apartamente>
