@@ -1,0 +1,27 @@
+[
+   {
+      "Media": 8.5,
+      "Nume": "Pop Marcel",
+      "id": 1
+   },
+   {
+      "Media": 9,
+      "Nume": "Popescu Maria",
+      "id": 2
+   },
+   {
+      "Media": 9.9,
+      "Nume": "Popa Adriana",
+      "id": 3
+   },
+   {
+      "Media": 9.3,
+      "Nume": "Comsa Maria",
+      "id": 4
+   },
+   {
+      "Media": 9.45,
+      "Nume": "Muntean Loredana",
+      "id": 5
+   }
+]

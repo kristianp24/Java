@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canditati>
+    <Canditat>
+        <ID>1</ID>
+        <Nume>Pop Marcel</Nume>
+        <Medie>8.5</Medie>
+    </Canditat>
+    <Canditat>
+        <ID>2</ID>
+        <Nume>Popescu Maria</Nume>
+        <Medie>9.0</Medie>
+    </Canditat>
+    <Canditat>
+        <ID>3</ID>
+        <Nume>Popa Adriana</Nume>
+        <Medie>9.9</Medie>
+    </Canditat>
+    <Canditat>
+        <ID>4</ID>
+        <Nume>Comsa Maria</Nume>
+        <Medie>9.3</Medie>
+    </Canditat>
+    <Canditat>
+        <ID>5</ID>
+        <Nume>Muntean Loredana</Nume>
+        <Medie>9.45</Medie>
+    </Canditat>
+</Canditati>
